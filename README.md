@@ -1,5 +1,6 @@
 # OS
 고려대학교 운영체제 과제
+각 과제 별로 보고서가 들어있습니다.
 
 ## 실습 1
 ### [설명](https://github.com/Yeon-junLee/OS/blob/main/%EC%8B%A4%EC%8A%B51/2022%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%8B%A4%EC%8A%B51%20%EA%B3%BC%EC%A0%9C%EC%84%A4%EB%AA%85(1).pdf)
