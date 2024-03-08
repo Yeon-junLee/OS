@@ -15,6 +15,8 @@ System Call, Process, Thread에 대한 간단한 과제입니다.
 ### [설명](https://github.com/Yeon-junLee/OS/blob/main/%EC%8B%A4%EC%8A%B52/2022%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%8B%A4%EC%8A%B5%202%20%EA%B3%BC%EC%A0%9C%EC%84%A4%EB%AA%85.pdf)
 
 IPC(Inter-Process Communication)에 관한 과제입니다.
-assignment 1-1은 IPC 중 shared memory를 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_1_1)
-assignment 1-2는 IPC 중 semaphore을 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_1_2)
+assignment 1-1은 IPC 중 shared memory를 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_1_1)  
+
+assignment 1-2는 IPC 중 semaphore을 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_1_2)  
+
 assignment 2는 pipe를 구현했습니다 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_2)
