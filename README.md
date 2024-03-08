@@ -22,3 +22,11 @@ assignment 1-1은 IPC 중 shared memory를 [링크](https://github.com/Yeon-junL
 assignment 1-2는 IPC 중 semaphore을 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_1_2)  
 
 assignment 2는 pipe를 구현했습니다 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_2)
+
+## 실습 3
+### [설명]()
+
+Page Replace Algorithm 중 LRU 알고리즘을 3가지 버전으로 구현 및 시뮬레이션하는 과제입니다.
+### [Page Replace Algorithms]()
+
+
