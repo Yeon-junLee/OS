@@ -11,7 +11,7 @@ System Call, Process, Thread에 대한 간단한 과제입니다.
 
 ### [System Call, Process, Thread에 관한 개념](https://github.com/Yeon-junLee/OS/blob/main/%EC%8B%A4%EC%8A%B51/%5B2022-1%ED%95%99%EA%B8%B0%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%8B%A4%EC%8A%B51%5D%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C%2C%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%EC%8A%A4%EB%A0%88%EB%93%9C(1).pdf)
 
-### 실습 2
+## 실습 2
 ### [설명](https://github.com/Yeon-junLee/OS/blob/main/%EC%8B%A4%EC%8A%B52/2022%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%8B%A4%EC%8A%B5%202%20%EA%B3%BC%EC%A0%9C%EC%84%A4%EB%AA%85.pdf)
 
 IPC(Inter-Process Communication)에 관한 과제입니다.  
