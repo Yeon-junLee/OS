@@ -24,9 +24,9 @@ assignment 1-2는 IPC 중 semaphore을 [링크](https://github.com/Yeon-junLee/O
 assignment 2는 pipe를 구현했습니다 [링크](https://github.com/Yeon-junLee/OS/tree/main/%EC%8B%A4%EC%8A%B52/ipc_project_master/assignment/assignment_2)
 
 ## 실습 3
-### [설명]()
+### [설명](https://github.com/Yeon-junLee/OS/blob/main/%EC%8B%A4%EC%8A%B53/OS_Lab03_assignment.pdf)
 
 Page Replace Algorithm 중 LRU 알고리즘을 3가지 버전으로 구현 및 시뮬레이션하는 과제입니다.
-### [Page Replace Algorithms]()
+### [Page Replace Algorithms 개념](https://github.com/Yeon-junLee/OS/blob/main/%EC%8B%A4%EC%8A%B53/OS_Lab03_%EC%9E%90%EB%A3%8C.pdf)
 
 
